@@ -15,7 +15,7 @@ First:
 
 Second:
 
-![secondImage]https://github.com/lucabecci/Weather-React-App/blob/master/git%202.png)
+![secondImage](https://github.com/lucabecci/Weather-React-App/blob/master/git%202.png)
 
 
 
